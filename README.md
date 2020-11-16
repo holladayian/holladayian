@@ -1,6 +1,22 @@
 <img src='irh-softwaredev.jpg' alt='header' width=100% />
 
+[![Followers][followers-shield]](/github/followers/holladayian?label=Follow)
+
+
 ### Hi there 👋
+
+My name is Ian Holladay and I am a software developer. I started developing web applications while attending Turing School of Software & Design, in May of 2020. There, I began studying JavaScript and the basic foundations of frontend development. This quickly led me to gain knowledge in HTML and CSS. From here I studied local storage, DOM/data model separation, and polished my git workflow. I gained proficiency in debugging and test driven developement (TDD). I even learned more conceptual theories like event bubbling/handling, and accessibility. This was all in my first six-week inning.
+
+**Error catching intensifies**
+
+Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs in which I would manipulate to internet. However, this  also introduced a complex new idea into my object oriented programming.  
+
+**Testing my abilities** 
+
+SASS/ object inheritance/ async
+Polishing accessability/SEO/best practices/ 
+
+TDD intensifies
 
 <!--
 **holladayian/holladayian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +40,18 @@ Here are some ideas to get you started:
 <a href="https://github.com/holladayian">
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=holladayian&show_icons=true&theme=synthwave" />
 </a>
+
+
+[followers-shield]: https://img.shields.io/github/followers/holladayian?label=Follow&style=social
+[followers-url]: /github/followers/holladayian?label=Follow
+[forks-shield]: https://img.shields.io/github/forks/jordy1611/holladayian?style=flat-square
+[forks-url]: https://github.com/holladayian/network/members
+[stars-shield]: https://img.shields.io/github/stars/holladayian?style=flat-square 
+[stars-url]: https://github.com/holladayianstargazers
+[issues-shield]: https://img.shields.io/github/issues/holladayian?style=flat-square
+[issues-url]: https://github.com/holladayian/issues
+[license-shield]: https://img.shields.io/github/license/holladayian?style=flat-square
+[license-url]: https://github.com/jordy1611/holladayian/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/ian-holladay/
+[product-screenshot]: images/screenshot.png
