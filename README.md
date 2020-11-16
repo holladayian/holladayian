@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ian's github stats](https://github-readme-stats.vercel.app/api?username=holladayian)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's github stats](https://github-readme-stats.vercel.app/api?username=holladayian&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
