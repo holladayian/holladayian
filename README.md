@@ -5,18 +5,20 @@
 
 ### Hi there 👋
 
-My name is Ian Holladay and I am a software developer. I started developing web applications while attending Turing School of Software & Design, in May of 2020. There, I began studying JavaScript and the basic foundations of frontend development. This quickly led me to gain knowledge in HTML and CSS. From here I studied local storage, DOM/data model separation, and polished my git workflow. I gained proficiency in debugging and test driven developement (TDD). I even learned more conceptual theories like event bubbling/handling, and accessibility. This was all in my first six-week inning.
+My name is Ian Holladay and I am a software developer. I started programming in May of 2020 while attending Turing School of Software & Design. There, I began studying JavaScript and the basic foundations of frontend development. This quickly led me to gain knowledge in HTML and CSS. From here I studied local storage, DOM/data model separation, and polished my git workflow. I gained proficiency in debugging and test driven developement (TDD) too. I even learned more conceptual theories like event bubbling/handling, and accessibility. This was all in my first six-week inning.
 
 **Error catching intensifies**
 
-Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs in which I would manipulate to internet. However, this  also introduced a complex new idea into my object oriented programming.  
+Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs in which I would manipulate to internet. However, this also introduced a complex new idea into my object oriented programming.  
 
 **Testing my abilities** 
 
-SASS/ object inheritance/ async
-Polishing accessability/SEO/best practices/ 
+If JavaScript runs script in an object oriented, synchronous order, how then can we set asynchronous data of a different type? Two simple answers? Async/await and promise.json(). While these concepts were monumental to my understanding of frontend development, they gave me the information needed to complete fully fledged frontend applications. I was ready to write code for a living, or so I thought...
 
-TDD intensifies
+**Reacting to new tech**
+
+Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on.
+
 
 <!--
 **holladayian/holladayian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
