@@ -17,14 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Ian's github stats](https://github-readme-stats.vercel.app/api?username=holladayian&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/holladayian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=holladayian&langs_count=8&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/holladayian">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=holladayian&show_icons=true&theme=synthwave" />
 </a>
