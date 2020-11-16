@@ -1,4 +1,4 @@
-![Header](irh-softwaredev.jpg)
+<img src='irh-softwaredev.jpg' alt='header' width=100% />
 
 ### Hi there 👋
 
@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/holladayian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
 </a>
 <a href="https://github.com/holladayian">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=holladayian&show_icons=true&theme=synthwave" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/?username=holladayian&show_icons=true&theme=synthwave" />
 </a>
