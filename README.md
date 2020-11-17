@@ -58,6 +58,15 @@ Up until this point of the story, I had been writing code in what is referred to
  [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
  
  <br/><br/>
+ 
+   <!-- 
+ ### Favorite projects
+ ---
+ 
+ 
+ <br/><br/>
+ 
+ -->
 
 <a href="https://github.com/holladayian">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
