@@ -54,6 +54,7 @@ Up until this point of the story, I had been writing code in what is referred to
  ### @ me at
  ---
  holladayian@gmail.com
+ 
  [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
  
  <br/><br/>
