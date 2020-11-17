@@ -4,6 +4,7 @@
 
 
 ### Hi there 👋
+---
 
 My name is Ian Holladay and I am a software developer. I started programming in May of 2020 while attending Turing School of Software & Design. There, I began studying JavaScript and the basic foundations of frontend development. This quickly led me to gain knowledge in HTML and CSS. From here I studied local storage, DOM/data model separation, and polished my git workflow. I gained proficiency in debugging and test driven developement (TDD) too. I even learned more conceptual theories like event bubbling/handling, and accessibility. This was all in my first six-week inning.
 
@@ -17,7 +18,7 @@ If JavaScript runs script in an object oriented, synchronous order, how then can
 
 **Reacting to new tech**
 
-Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on.
+Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on. Which brings us to now...
 
 
 <!--
@@ -33,8 +34,38 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
 
+
+### Tech👾
+---
+- Languages
+  - JavaScript
+  - JSX
+  - CSS
+  - SASS
+  - SCSS
+  - HTML
+  
+- Frameworks
+  - React
+  - Mocha
+  - Jest
+  - Express
+  
+- Libraries
+  - Chai
+  - Spies
+  - socket.io
+  
+- Tools
+  - Node.js
+  - Git
+  - Github (obviously)
+  
+  <br/>
 
 <a href="https://github.com/holladayian">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
