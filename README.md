@@ -20,24 +20,7 @@ If JavaScript runs script in an object oriented, synchronous order, how then can
 
 Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on. Which brings us to now...
 
-
-<!--
-**holladayian/holladayian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
--->
-
+<br/><br/>
 
 ### Tech👾
 ---
@@ -65,11 +48,20 @@ Here are some ideas to get you started:
   - Git
   - Github (obviously)
   
-  <br/>
+  <br/><br/>
+  
+   
+ ### @ me at
+ ---
+ holladayian@gmail.com
+ [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
+ 
+ <br/><br/>
 
 <a href="https://github.com/holladayian">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holladayian&langs_count=8&theme=synthwave" />
 </a>
+
 <a href="https://github.com/holladayian">
   <img align="right" src="https://github-readme-stats.vercel.app/api/?username=holladayian&show_icons=true&theme=synthwave" />
 </a>
@@ -88,3 +80,21 @@ Here are some ideas to get you started:
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ian-holladay/
 [product-screenshot]: images/screenshot.png
+
+
+<!--
+**holladayian/holladayian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+-->
