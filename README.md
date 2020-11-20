@@ -62,7 +62,9 @@ Up until this point of the story, I had been writing code in what is referred to
    <!-- 
  ### Favorite projects
  ---
- 
+Tic-tac-toe,
+BangWords,
+RancidTomatillos
  
  <br/><br/>
  
