@@ -73,6 +73,7 @@ RancidTomatillos
  ### Currently learning
  ---
  TravisCI
+ Redux
  
  <br/><br/>
  
