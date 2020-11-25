@@ -69,12 +69,21 @@ RancidTomatillos
  <br/><br/>
  
  --> 
+ 
  <!-- 
  ### Currently learning
  ---
  TravisCI
  Redux
  
+ <br/><br/>
+ 
+ --> 
+ 
+ <!-- 
+ ### what's next
+ ---
+
  <br/><br/>
  
  -->
