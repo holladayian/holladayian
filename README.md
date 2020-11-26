@@ -75,6 +75,7 @@ RancidTomatillos
  ### Currently learning
  ---
  TravisCI
+ React Hooks
  
  <br/><br/>
  
