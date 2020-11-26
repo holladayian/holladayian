@@ -42,6 +42,7 @@ Up until this point of the story, I had been writing code in what is referred to
   - Chai
   - Spies
   - socket.io
+  - Redux
   
 - Tools
   - Node.js
@@ -74,7 +75,6 @@ RancidTomatillos
  ### Currently learning
  ---
  TravisCI
- Redux
  
  <br/><br/>
  
