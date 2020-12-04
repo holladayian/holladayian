@@ -77,6 +77,7 @@ RancidTomatillos
  TravisCI
  React Hooks
  Git rebase workflow
+ GraphQL
  <br/><br/>
  
  --> 
