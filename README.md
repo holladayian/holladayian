@@ -10,7 +10,7 @@ My name is Ian Holladay and I am a software developer. I started programming in 
 
 **Error catching intensifies**
 
-Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs in which I would manipulate to internet. However, this also introduced a complex new idea into my object oriented programming.  
+Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs in which I would manipulate the internet. However, this also introduced a complex new idea into my object oriented programming.  
 
 **Testing my abilities** 
 
