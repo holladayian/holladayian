@@ -25,36 +25,36 @@ Up until this point of the story, I had been writing code in what is referred to
 ### Tech👾
 ---
 - Languages
-  - JavaScript <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  - JSX <img src="https://img.shields.io/badge/JSX-e5a00d?style=for-the-badge&logo=JSX&logoColor=white" />
-  - CSS <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-  - SASS <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  - SCSS <img src="https://img.shields.io/badge/SCSS-25a768?style=for-the-badge&logo=SCSS&logoColor=white" />
-  - HTML <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-  - HTML5 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  - Markdown <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  - <img src="https://img.shields.io/badge/JSX-e5a00d?style=for-the-badge&logo=JSX&logoColor=white" alt="JSX" />
+  - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  - <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
+  - <img src="https://img.shields.io/badge/SCSS-25a768?style=for-the-badge&logo=SCSS&logoColor=white" alt="SCSS" />
+  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  - <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   
 - Frameworks
-  - React <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  - React Native <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  - Mocha <img src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=Mocha&logoColor=white" />
+  - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  - <img src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
   
   
-  - Jest <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white" />
-  - Express <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  - <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
+  - <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
   
 - Libraries
-  - Chai <img src="https://img.shields.io/badge/Chai-b1832f?style=for-the-badge&logo=Chai&logoColor=white" />
-  - Spies <img src="https://img.shields.io/badge/Spies-360d3a?style=for-the-badge&logo=Spies&logoColor=white" />
-  - socket.io <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white" />
-  - Redux <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white" />
-  - React Router <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  - <img src="https://img.shields.io/badge/Chai-b1832f?style=for-the-badge&logo=Chai&logoColor=white" alt="Chai" />
+  - <img src="https://img.shields.io/badge/Spies-360d3a?style=for-the-badge&logo=Spies&logoColor=white" alt="Spies" />
+  - <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white" alt="socket.io" />
+  - <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux" />
+  - <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   
 - Tools
-  - Node.js <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  - Heroku <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-  - Git <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white" />
-  - Github (obviously) <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  - <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+  - <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=white" alt="Git" />
+  - <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /> (obviously)
   
   <br/><br/>
   
