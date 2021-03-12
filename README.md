@@ -65,6 +65,7 @@ Up until this point of the story, I had been writing code in what is referred to
  holladayian@gmail.com
  
  [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
+ 
  [Portfolio](https://alumni.turing.io/alumni/ian-holladay)
  
  <br/><br/>
