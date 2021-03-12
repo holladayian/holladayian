@@ -26,8 +26,8 @@ Up until this point of the story, I had been writing code in what is referred to
 ---
 - Languages
   - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  - <img src="https://img.shields.io/badge/JSX-e5a00d?style=for-the-badge&logo=JSX&logoColor=white" alt="JSX" />
   - <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  - <img src="https://img.shields.io/badge/JSX-e5a00d?style=for-the-badge&logo=JSX&logoColor=white" alt="JSX" />
   - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   - <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   - <img src="https://img.shields.io/badge/SCSS-25a768?style=for-the-badge&logo=SCSS&logoColor=white" alt="SCSS" />
