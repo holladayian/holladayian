@@ -88,6 +88,7 @@ RancidTomatillos
  React Hooks
  Git rebase workflow
  GraphQL
+ Angular
  <br/><br/>
  
  --> 
@@ -137,6 +138,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
+
+### Workflows
+TDD
+Agile Workflow
+RESTful APIs
 
 
 -->
