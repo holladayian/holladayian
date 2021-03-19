@@ -22,7 +22,7 @@
 
 My name is Ian Holladay and I am a software developer. I started programming in May of 2020 while attending Turing School of Software & Design. There, I began studying JavaScript and the basic foundations of frontend development. This quickly led me to gain knowledge in HTML and CSS. From here I studied local storage, DOM/data model separation, and polished my git workflow. I gained proficiency in debugging and test driven developement (TDD) too. I even learned more conceptual theories like event bubbling/handling, and accessibility. This was all in my first six-week inning.
 
-**Error catching intensifies**
+**Error handling intensifies**
 
 Continuing into my second inning of Turing, I began studying higher concepts of frontend development. Things like scope, complex data types, and array iterators became second nature. My ability to test my work with the framework Mocha, and libraries such as Chai, and Spies became the mold that would drive my development. I studied network requests. GET, PUSH, POST, DELETE. These became the verbs with which I would manipulate the internet. However, this also introduced a complex new idea into my object oriented programming.  
 
@@ -32,7 +32,11 @@ If JavaScript runs script in an object oriented, synchronous order, how then can
 
 **Reacting to new tech**
 
-Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on. Which brings us to now...
+Up until this point of the story, I had been writing code in what is referred to as "Vanilla JavaScript". Little did I know there was a faster, more powerful way for frontend devs to write programs. This is when I learned about JSX (what my class affectionately renamed "JSexy") and React. Oh React, what a beautiful technology. Everything is so well organized. Everything is so scalable. This is the framework (library?) which I have decided to start my career on.
+
+**The next iteration**
+
+At this point, I have graduated from Turing and am now out in the world as a free agent of technology, but my education doesn't end there (spoilers, it doesn't end anywhere). Now I spend my time picking up new technologies, such as TypeScript and Angular. I continue to practice and perfect my trade through coding challenges, online courses, and meetups. Who knows how much I'll know tomorrow?
 
 <br/><br/>
 
@@ -45,13 +49,14 @@ Up until this point of the story, I had been writing code in what is referred to
   - <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   - <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   - <img src="https://img.shields.io/badge/SCSS-25a768?style=for-the-badge&logo=SCSS&logoColor=white" alt="SCSS" />
-  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  - <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html&logoColor=white" alt="HTML" />
   - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   - <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   
 - Frameworks
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  - <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DE0031" alt="React" />
   - <img src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
   
   
