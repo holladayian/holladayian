@@ -1,8 +1,20 @@
 <img src='irh-softwaredev.jpg' alt='header' width=100% />
-<!-- <img src='Ian-Holladay-3-19.pdf' alt='header' width=100% /> -->
 
 
 [![Followers][followers-shield]](/github/followers/holladayian?label=Follow)
+
+   
+ ### @ me at
+ ---
+ holladayian@gmail.com
+ 
+ [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
+ 
+ [Portfolio](https://alumni.turing.io/alumni/ian-holladay)
+ 
+ [Resume](https://www.canva.com/design/DAEKFn2Muh0/bFZrbFPgKjkTYl6uFX1mQw/edit)
+ 
+ <br/><br/>
 
 
 ### Hi there 👋
@@ -61,16 +73,6 @@ Up until this point of the story, I had been writing code in what is referred to
   
   <br/><br/>
   
-   
- ### @ me at
- ---
- holladayian@gmail.com
- 
- [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
- 
- [Portfolio](https://alumni.turing.io/alumni/ian-holladay)
- 
- <br/><br/>
  
    <!-- 
  ### Favorite projects
