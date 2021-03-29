@@ -10,7 +10,7 @@
  
  [LinkedIn](https://www.linkedin.com/in/ian-holladay/)
  
- [Portfolio](https://alumni.turing.io/alumni/ian-holladay)
+ [Portfolio](https://terminal.turing.io/profiles/524)
  
  [Resume](https://www.canva.com/design/DAEKFn2Muh0/bFZrbFPgKjkTYl6uFX1mQw/edit)
  
