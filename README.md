@@ -58,8 +58,7 @@ At this point, I have graduated from Turing and am now out in the world as a fre
   - <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   - <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DE0031" alt="React" />
   - <img src="https://img.shields.io/badge/Mocha-8d6748?style=for-the-badge&logo=Mocha&logoColor=white" alt="Mocha" />
-  
-  
+  - <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
   - <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
   
