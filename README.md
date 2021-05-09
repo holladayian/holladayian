@@ -61,6 +61,8 @@ At this point, I have graduated from Turing and am now out in the world as a fre
   - <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   - <img src="https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest" />
   - <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express" />
+  - <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white"/>
+
   
 - Libraries
   - <img src="https://img.shields.io/badge/Chai-b1832f?style=for-the-badge&logo=Chai&logoColor=white" alt="Chai" />
